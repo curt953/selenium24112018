@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32101e32-20bd-45a9-9236-07abf567f449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daySeven/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +17,17 @@
     <favorites_list name="Selenium24112018" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/daySeven/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1007">
+              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,8 +51,9 @@
         <option value="$PROJECT_DIR$/src/dayFive/ExploreBlogAndNavigateToMainPage.java" />
         <option value="$PROJECT_DIR$/src/dayFive/Main.java" />
         <option value="$PROJECT_DIR$/src/dayFive/UpdateProfessionalAndPersonalDetails.java" />
-        <option value="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" />
         <option value="$PROJECT_DIR$/src/daySix/TestNgDemo.java" />
+        <option value="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" />
+        <option value="$PROJECT_DIR$/src/daySeven/Main.java" />
       </list>
     </option>
   </component>
@@ -60,6 +71,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,12 +85,16 @@
               <item name="Selenium24112018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Selenium24112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium24112018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dayFive" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,7 +104,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544602557197" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544982867953" />
     <property name="last_opened_file_path" value="D:/Documents/Software University/QA/Resources/Webdriver/selenium-server-standalone-3.9.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -108,7 +125,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Test Case One">
+  <component name="RunManager" selected="Application.DaySevenMain">
+    <configuration name="DaySevenMain" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_192\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="daySeven.Main" />
+      <module name="Selenium24112018" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoDraggable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dayFive.DemoDraggable" />
       <module name="Selenium24112018" />
@@ -131,6 +157,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_192\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Selenium24112018" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,6 +214,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DaySevenMain" />
       <item itemvalue="Application.DemoDraggable" />
       <item itemvalue="Application.DemoFlipcart" />
       <item itemvalue="TestNG.Test Case One" />
@@ -205,7 +240,7 @@
       <workItem from="1544550933489" duration="468000" />
       <workItem from="1544586040588" duration="6375000" />
       <workItem from="1544680209247" duration="887000" />
-      <workItem from="1544957878172" duration="624000" />
+      <workItem from="1544957878172" duration="5922000" />
     </task>
     <task id="LOCAL-00001" summary="Commit on 11.12.2018 containing the assignment for day five.">
       <created>1544551084977</created>
@@ -218,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24192000" />
+    <option name="totallyTimeSpent" value="29490000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -231,15 +266,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3221" height="1778" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1531161" />
-      <window_info id="TODO" order="1" side_tool="true" weight="0.3299589" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1531161" />
+      <window_info id="TODO" order="1" show_stripe_button="false" side_tool="true" weight="0.3299589" />
+      <window_info id="Structure" order="2" show_stripe_button="false" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" weight="0.3299589" />
+      <window_info id="Favorites" order="7" show_stripe_button="false" weight="0.3299589" />
+      <window_info id="Version Control" order="8" side_tool="true" weight="0.15406516" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32989064" />
@@ -247,11 +284,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32989064" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32989064" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32989064" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32989064" />
+      <window_info anchor="bottom" id="Messages" order="10" show_stripe_button="false" weight="0.32989064" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,23 +408,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/daySix/TestNgDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/dayFive/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/daySix/DemoFlipcart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4081">
-          <caret line="77" column="59" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
+        <state relative-caret-position="636">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/daySix/DemoFlipcart.java">
+    <entry file="file://$PROJECT_DIR$/src/dayFive/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="3445">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/daySeven/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
         </state>
       </provider>
     </entry>

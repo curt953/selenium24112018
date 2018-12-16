@@ -8,12 +8,12 @@ public class DemoFlipcart {
 
     public static void main(String[] args) {
         System.setProperty("webdriver.gecko.driver",
-        "D:\\Documents\\Software University\\QA\\Resources\\Webdriver\\geckodriver-v0.23.0-win64\\geckodriver.exe");
+        "D:\\Documents\\Software University\\QA\\Resources\\Webdriver\\geckodriver\\geckodriver.exe");
         FirefoxDriver driver = new FirefoxDriver();
 
         driver.manage().deleteAllCookies();
-//        driver.manage().timeouts().pageLoadTimeout(15, TimeUnit.SECONDS);
-//        driver.manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
+        driver.manage().timeouts().pageLoadTimeout(15, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
         driver.manage().timeouts().setScriptTimeout(100, TimeUnit.SECONDS);
         driver.get("https://www.flipkart.com");
 
