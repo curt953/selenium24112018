@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32101e32-20bd-45a9-9236-07abf567f449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/daySeven/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dayEight/POMDemoWithoutPageFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +16,15 @@
     <favorites_list name="Selenium24112018" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/daySeven/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/dayEight/POMDemoWithoutPageFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007">
-              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+            <state relative-caret-position="371">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,14 +56,15 @@
         <option value="$PROJECT_DIR$/src/daySix/TestNgDemo.java" />
         <option value="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" />
         <option value="$PROJECT_DIR$/src/daySeven/Main.java" />
+        <option value="$PROJECT_DIR$/src/dayEight/POMDemoWithoutPageFactory.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="15" />
-    <option name="width" value="1923" />
-    <option name="height" value="1035" />
+    <option name="x" value="9" />
+    <option name="y" value="9" />
+    <option name="width" value="1929" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -71,8 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,12 +90,14 @@
               <item name="Selenium24112018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Selenium24112018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dayFive" type="462c0819:PsiDirectoryNode" />
+              <item name="daySix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,7 +107,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544982867953" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545068329059" />
     <property name="last_opened_file_path" value="D:/Documents/Software University/QA/Resources/Webdriver/selenium-server-standalone-3.9.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -125,22 +128,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DaySevenMain">
-    <configuration name="DaySevenMain" type="Application" factoryName="Application">
+  <component name="RunManager" selected="Application.POMDemoWithoutPageFactory">
+    <configuration name="JAVA Class Execution" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_192\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="daySeven.Main" />
       <module name="Selenium24112018" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoDraggable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dayFive.DemoDraggable" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_192\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="daySeven.Main" />
       <module name="Selenium24112018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dayFive.*" />
+          <option name="PATTERN" value="daySeven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +152,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoFlipcart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="daySix.DemoFlipcart" />
+    <configuration name="POMDemoWithoutPageFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_192\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="dayEight.POMDemoWithoutPageFactory" />
       <module name="Selenium24112018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="daySix.*" />
+          <option name="PATTERN" value="dayEight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,25 +178,6 @@
     <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test Case One" type="TestNG">
-      <module name="Selenium24112018" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_192\jre" />
-      <option name="SUITE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -214,15 +201,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DaySevenMain" />
-      <item itemvalue="Application.DemoDraggable" />
-      <item itemvalue="Application.DemoFlipcart" />
-      <item itemvalue="TestNG.Test Case One" />
+      <item itemvalue="Application.JAVA Class Execution" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.POMDemoWithoutPageFactory" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoFlipcart" />
-        <item itemvalue="Application.DemoDraggable" />
+        <item itemvalue="Application.POMDemoWithoutPageFactory" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +227,11 @@
       <workItem from="1544586040588" duration="6375000" />
       <workItem from="1544680209247" duration="887000" />
       <workItem from="1544957878172" duration="5922000" />
+      <workItem from="1544984703109" duration="96000" />
+      <workItem from="1544984860630" duration="3000" />
+      <workItem from="1544985006361" duration="30000" />
+      <workItem from="1545025578668" duration="707000" />
+      <workItem from="1545061907935" duration="3120000" />
     </task>
     <task id="LOCAL-00001" summary="Commit on 11.12.2018 containing the assignment for day five.">
       <created>1544551084977</created>
@@ -253,7 +244,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29490000" />
+    <option name="totallyTimeSpent" value="33446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,16 +399,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/daySix/TestNgDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/daySix/DemoFlipcart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dayFive/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3445">
@@ -430,8 +411,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/daySeven/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        <state relative-caret-position="384">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/daySix/DemoFlipcart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dayEight/POMDemoWithoutPageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
