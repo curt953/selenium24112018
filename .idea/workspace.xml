@@ -2,7 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32101e32-20bd-45a9-9236-07abf567f449" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumMaven24112018/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumMaven24112018/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day1/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day2/DemoEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day2/DemoEmployee1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day2/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day2/GreatestOutOfThreeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day2/GreatestOutOfTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day2/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day2/SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day2/VariableAndDataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day3/DemoGuru99Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day3/DemoWorkingWithChrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day3/Guru99Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day3/WorkingWithChrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day4/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day4/DemoCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day4/DemoEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day4/DemoShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day4/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day4/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day4/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/Cuboid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/DemoCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/DemoMSOffice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/DemoShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/MSExcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/MSOffice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/MSWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/selenium/DemoMultipleBrowserTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day5/selenium/MultipleBrowserTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day6/AlertAndFrameHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day6/AmazonProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day6/DemoAmazonProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day6/DemoMouseHover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day6/DragAndDrop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day6/MouseHover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EdurekaProject24112018/src/day6/WindowHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/Selenium24112018.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayEight/POMDemoWithoutPageFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/Assignment.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/DemoDraggable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/ExploreBlogAndNavigateToMainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/InvokeBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/LogoutOfPortal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/NavigateToMyProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayFive/UpdateProfessionalAndPersonalDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayOne/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/daySeven/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/daySix/DemoFlipcart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayThree/SeleniumStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium24112018/src/dayTwo/Demo.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dayFive/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="2444">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,7 +102,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,20 +114,20 @@
         <option value="$PROJECT_DIR$/src/dayFive/NavigateToMyProfile.java" />
         <option value="$PROJECT_DIR$/src/dayFive/LogoutOfPortal.java" />
         <option value="$PROJECT_DIR$/src/dayFive/ExploreBlogAndNavigateToMainPage.java" />
-        <option value="$PROJECT_DIR$/src/dayFive/Main.java" />
         <option value="$PROJECT_DIR$/src/dayFive/UpdateProfessionalAndPersonalDetails.java" />
         <option value="$PROJECT_DIR$/src/daySix/TestNgDemo.java" />
         <option value="$PROJECT_DIR$/src/daySix/DemoFlipcart.java" />
         <option value="$PROJECT_DIR$/src/daySeven/Main.java" />
         <option value="$PROJECT_DIR$/src/dayEight/POMDemoWithoutPageFactory.java" />
+        <option value="$PROJECT_DIR$/src/dayFive/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="7" />
-    <option name="y" value="7" />
-    <option name="width" value="1932" />
-    <option name="height" value="1044" />
+    <option name="x" value="5" />
+    <option name="y" value="5" />
+    <option name="width" value="1933" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,6 +154,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,8 +164,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545552131642" />
-    <property name="last_opened_file_path" value="D:/Documents/Software University/QA/Resources/Webdriver/selenium-server-standalone-3.9.1.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545557672870" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -227,6 +291,7 @@
       <workItem from="1545061907935" duration="3120000" />
       <workItem from="1545106649561" duration="84000" />
       <workItem from="1545548904646" duration="2225000" />
+      <workItem from="1545557461706" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="Commit on 11.12.2018 containing the assignment for day five.">
       <created>1544551084977</created>
@@ -239,7 +304,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35755000" />
+    <option name="totallyTimeSpent" value="36138000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,7 +318,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3221" height="1778" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1531161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15374881" />
       <window_info id="TODO" order="1" show_stripe_button="false" side_tool="true" weight="0.3299589" />
       <window_info id="Structure" order="2" show_stripe_button="false" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
@@ -445,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dayFive/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="2444">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
